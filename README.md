@@ -12,13 +12,14 @@ This Guide Outlines how to Configure ActiveDirectory <br />
 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
+- Active Directory
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro</b> (22H2)
 - Microsoft Windows Server
 
-<h2>List of Prerequisites</h2>
+<h2>List of Devices</h2>
 
 - Domain Control (DC)
 - Client (Windows VM)
