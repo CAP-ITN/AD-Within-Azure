@@ -6,7 +6,7 @@
 </p>
 
 <h1>Active Directory - Requirements and Installation</h1>
-This Guide Outlines steps in implementing Active Directory and its uses<br />
+This Guide Outlines how to Configure ActiveDirectory <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,6 +16,7 @@ This Guide Outlines steps in implementing Active Directory and its uses<br />
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro</b> (22H2)
+- MicrosoftWindowsServer
 
 <h2>List of Prerequisites</h2>
 
