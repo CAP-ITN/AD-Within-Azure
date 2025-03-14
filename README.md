@@ -5,7 +5,7 @@
 
 </p>
 
-<h1>Active Directory - Requirements and Installation</h1>
+<h1>Active Directory - A Guide</h1>
 This Guide Outlines how to Configure ActiveDirectory <br />
 
 <h2>Environments and Technologies Used</h2>
@@ -32,7 +32,13 @@ This Guide Outlines how to Configure ActiveDirectory <br />
 
 </p>
 <p>
-para here
+Consistency in network service is key
+for other servers, clients, and network devices who rely on the DC’s IP for authentication and DNS resolution. A changing IP could cause disruptions.
+It is also for remote access stability
+for when remotely connecting to the DC, a static IP ensures a reliable connection without needing to track address changes.
+It also helps in prevention of authentication failures.
+Active Directory and other domain services depend on a fixed IP to function properly. DHCP changes could cause logon and replication issues. So in order to ensure a smooth connection, the domain controller's IP is going from a dynamic one to a static address.
+
 </p>
 <br />
 <p>
@@ -42,8 +48,7 @@ para here
 
 </p>
 <p>
-para here
-</p>
+When you set a server’s DNS address to the private IP address of the Domain Controller instead of a virtually provided address, you ensure that all DNS queries are processed within the local network rather than relying on an external or dynamically assigned address.This ensures the functionality of Active Directory, and faster response times. </p>
 <br />
 <p>
 
@@ -53,7 +58,8 @@ para here
 
 </p>
 <p>
-para here
+For Final Verification:
+Run ipconfig /all to confirm that the DC's private IP is set as the DNS.
 </p>
 <br />
 
