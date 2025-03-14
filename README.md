@@ -16,13 +16,13 @@ This Guide Outlines how to Configure ActiveDirectory <br />
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro</b> (22H2)
-- MicrosoftWindowsServer
+- Microsoft Windows Server
 
 <h2>List of Prerequisites</h2>
 
-- list
-
-- 
+- Domain Control (DC)
+- Client (Windows VM)
+  
 <h2>Steps</h2>
 
 <p>
