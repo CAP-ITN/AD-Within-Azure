@@ -26,7 +26,17 @@ This Guide Outlines steps in implementing Active Directory and its uses<br />
 
 <p>
   
-![AD ](https://github.com/user-attachments/assets/2ba03037-0a99-470d-aa63-dc9cee9ff507)
+
+![AD1](https://github.com/user-attachments/assets/db084b17-6241-4e67-a13c-88915441bac0)
+
+</p>
+<p>
+para here
+</p>
+<br />
+<p>
+
+![AD2](https://github.com/user-attachments/assets/d8a58363-43af-430b-b14f-4c918d5ca95e)
 
 
 </p>
@@ -36,7 +46,8 @@ para here
 <br />
 <p>
 
-![AD 2](https://github.com/user-attachments/assets/06fd21a8-cb47-4215-8689-03751862065c)
+
+![AD 3-5](https://github.com/user-attachments/assets/7036e6f5-f94d-4c37-8a09-3bde20684bf3)
 
 
 </p>
@@ -44,36 +55,4 @@ para here
 para here
 </p>
 <br />
-<p>
-
-![AD3](https://github.com/user-attachments/assets/adc7591d-dcb9-4f4e-ab97-276f481e71e8)
-
-
-</p>
-<p>
-para here
-</p>
-<br />
-
-
-![AD4](https://github.com/user-attachments/assets/8afaed8a-233c-40bf-9ac9-dcf34d95b59c)
-
-
-</p>
-<p>
-para here
-</p>
-<br />
-
-
-![AD5](https://github.com/user-attachments/assets/592e9be9-b759-4f22-85e6-c3c6f8abe777)
-
-
-</p>
-<p>
-para here
-</p>
-<br />
-
-![AD6](https://github.com/user-attachments/assets/c41020f8-6bb7-4f2a-8548-64e291c28484)
 
